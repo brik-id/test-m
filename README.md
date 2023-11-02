@@ -65,6 +65,7 @@ Tim kamu tidak ada yang mengharapkannya. Tetapi it will be nice to see:
 - State persistence, jika dibutuhkan save token (guna authentikasi), tentunya butuh di save di suatu tempat yang secure dong.
 - Error reporting, kadang kita belum tau ada masalah apa di hp tipe apa kan ya? Bagaimana cara kita tau data ini?
 - TDD, untuk menambah keyakinan anda bahwa semua code yang anda tulis telah melewati beberapa test
+- Menerapkan SOLID Principle
 
 KISS (Keep It Stupid Simple) - Jangan lupa target audience-nya kemungkinan gaptek.
 
